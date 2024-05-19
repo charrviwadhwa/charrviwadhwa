@@ -1,8 +1,8 @@
 
 
-https://github.com/charrviwadhwa/charrviwadhwa/assets/154724710/abad35a9-7d76-46ea-b792-1f58deaf9020
 
 
+![Hi, I’m Charvi Wadhwa](https://github.com/charrviwadhwa/charrviwadhwa/assets/154724710/b2a78d30-a3f5-40ad-a563-3d2444497099)
 
 
 
