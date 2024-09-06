@@ -36,16 +36,11 @@
 
 [![charrviwadhwa's GitHub | Stats](https://stats.quira.sh/charrviwadhwa/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=charrviwadhwa)
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+## GSSOC(24) Badges 🪶
+<div style='display:flex ; gap: 10px; ><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-
-
- 
+  
 </div>
-</details>
-
 
 
 
