@@ -5,11 +5,11 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxxc2lsM3ZuN3NiY2NiOHZuc2RvbnB3ZG50bjJiZXoxOHhlZnNteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="your-linkedin-URL">
+<div id="header" align="center>
+  <a href="https://www.linkedin.com/in/charvi-wadhwa-23b565291">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-github-URL">
+  <a href="https://github.com/charrviwadhwa">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
