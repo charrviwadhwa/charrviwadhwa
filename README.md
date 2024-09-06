@@ -2,8 +2,10 @@
 
 
 
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="100"/>
+</div>
 
-<iframe src="https://giphy.com/embed/jdPMeyv9rn0hZHh8n9" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9">via GIPHY</a></p>
 
 
 <h1 align="center">Hi 👋, I'm Charvi Wadhwa</h1>
