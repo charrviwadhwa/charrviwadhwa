@@ -26,7 +26,7 @@
 </div>
 </details>
 
-[![charrviwadhwa's GitHub | Stats](https://stats.quira.sh/charrviwadhwa/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=charrviwadhwa)
+[![charrviwadhwa's GitHub | Stats](https://stats.quira.sh/charrviwadhwa/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=charrviwadhwa)
 
 
 
