@@ -31,7 +31,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charrviwadhwa&" alt="charrviwadhwa" /></p>
 
 
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=charrviwadhwa&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 
 
 ## GSSOC(24) Badges 
