@@ -28,7 +28,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charrviwadhwa&show_icons=true&locale=en&layout=compact" alt="charrviwadhwa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charrviwadhwa&" alt="charrviwadhwa" /></p>
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=charrviwadhwa&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
