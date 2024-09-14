@@ -28,7 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charrviwadhwa&layout=compact)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=charrviwadhwa&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=charrviwadhwa&theme=highcontrast&currStreakLabel=26EBE5&sideLabels=26DEEB&border=DCEB11" alt="GitHub Streak" /></a>
 
 
 ## GSSOC(24) Badges 
