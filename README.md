@@ -31,13 +31,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=charrviwadhwa&theme=highcontrast&currStreakLabel=26EBE5&sideLabels=26DEEB&border=DCEB11" alt="GitHub Streak" /></a>
 
 
-## GSSOC(24) Badges 
-<div style='display:flex; align-items⬅️; gap: 10px;' align='left'>
 
-<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/RkSqkDGwTMWoH8HhGf7bxw/image">
-
-  
- </a>
 </div>
 
 
