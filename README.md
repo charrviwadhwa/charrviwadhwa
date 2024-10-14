@@ -32,8 +32,10 @@
 
 
 ## GSSOC(24) Badges 
-<div style='display:flex; align-items⬅️; gap: 10px;' align='left'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<div style='display:flex; align-items⬅️; gap: 10px;' align='left'>
+
+<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/RkSqkDGwTMWoH8HhGf7bxw/image">
+
   
  </a>
 </div>
