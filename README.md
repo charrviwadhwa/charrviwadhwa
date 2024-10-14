@@ -20,6 +20,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning *web development*
+- 🎇 I’m currently doing *DSA in Java*
 
 
 
