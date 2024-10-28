@@ -25,8 +25,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="800" height="300">
 </div><br>
 <p>
-  <h4>- 🌱 I’m currently learning <i>web development</i><br>
-- 🌟 I’m currently doing <i>DSA in Java</i></h4>
+  <h3>- 🌱 I’m currently learning <i>web development</i><br>
+- 🌟 I’m currently doing <i>DSA in Java</i></h3>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="300">
 </p>
 
