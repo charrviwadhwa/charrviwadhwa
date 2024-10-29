@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 <h1 align="center">Hi 🌻, I'm Charvi Wadhwa</h1>
 <!-- <h3 align="center">A passionate developer from India</h3> -->
 <div align="center">
@@ -24,15 +17,13 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="800" height="300">
 </div><br>
-<p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="300">
+<p align="left">
 - 🌱 I’m currently learning <i>web development</i><br>
-- 🌟 I’m currently doing <i>DSA in Java</i>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="300">
+- 🌟 I’m currently doing <i>DSA in Java</i><br>
+- 🌍 I'm passionate about open source contributions 🤝
 </p>
-
-
-
-
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -45,20 +36,20 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charrviwadhwa&layout=compact)
-
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=charrviwadhwa&theme=highcontrast&currStreakLabel=26EBE5&sideLabels=26DEEB&border=DCEB11" alt="GitHub Streak" /></a>
-
-
+<h2>My Github Stats</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charrviwadhwa/charrviwadhwa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charrviwadhwa/charrviwadhwa/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
 
+![charrviwadhwa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charrviwadhwa&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![charrviwadhwa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=charrviwadhwa&theme=radical&hide_border=false)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charrviwadhwa&bg_color=000000&color=8ae8f4&line=66d6e5&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
