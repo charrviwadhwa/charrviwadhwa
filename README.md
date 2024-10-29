@@ -52,6 +52,13 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=charrviwadhwa&theme=highcontrast&currStreakLabel=26EBE5&sideLabels=26DEEB&border=DCEB11" alt="GitHub Streak" /></a>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charrviwadhwa/charrviwadhwa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charrviwadhwa/charrviwadhwa/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 </div>
 
