@@ -51,7 +51,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charrviwadhwa&bg_color=000000&color=8ae8f4&line=66d6e5&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+[![An image of @charrviwadhwa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charrviwadhwa)](https://holopin.io/@charrviwadhwa)
 </div>
 
           
