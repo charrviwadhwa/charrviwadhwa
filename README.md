@@ -46,7 +46,6 @@
 
 
 ![charrviwadhwa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charrviwadhwa&theme=radical&show_icons=true&hide_border=false&layout=compact)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=charrviwadhwa&theme=radical)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charrviwadhwa&bg_color=000000&color=8ae8f4&line=66d6e5&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
