@@ -27,7 +27,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,c,cpp,eclipse,pycharm,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,pycharm,vercel)](https://skillicons.dev)
+
 
 <br>
 <br>
