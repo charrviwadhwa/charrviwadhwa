@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🌻, I'm Charvi Wadhwa</h1>
 <!-- <h3 align="center">A passionate developer from India</h3> -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F5F7A2&width=480&lines=A+passionate+developer+from+India;Welcome+to+my+Github+Profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&width=435&lines=Welcome+to+my+GitHub+Profile!;A+passionate+developer+from+India" alt="Typing SVG" /></a>
 </div>
 
 <div id="badges" align="center">
