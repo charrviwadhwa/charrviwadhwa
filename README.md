@@ -12,6 +12,7 @@
   <a href="https://github.com/charrviwadhwa">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+![](https://komarev.com/ghpvc/?username=charrviwadhwa)
 </div><br>
 
 <div align="center">
