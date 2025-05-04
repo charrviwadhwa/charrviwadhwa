@@ -32,7 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,java,python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,c,cpp,eclipse,pycharm,vercel)](https://skillicons.dev)
 
 
