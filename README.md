@@ -23,13 +23,14 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="800" height="300">
 </div><br>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="300">
-<p align="left">
-- 🌱 I’m currently learning <i>web development</i><br>
-- 🌟 I’m currently doing <i>DSA in Java</i><br>
-- 🌍 I'm passionate about open source contributions 🤝
+
+<p align="center">
+🌱 I’m currently learning <i>web development</i><br>
+🌟 I’m currently doing <i>DSA in Java</i><br>
+🌍 I'm passionate about open source contributions 🤝
 </p>
  
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -37,9 +38,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,c,cpp,eclipse,pycharm,vercel)](https://skillicons.dev)
 
 
-<br>
-<br>
-<h2>📈 My Github Stats</h2>
+<!-- <h2>📈 My Github Stats</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
@@ -53,7 +52,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charrviwadhwa&bg_color=000000&color=8ae8f4&line=66d6e5&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![An image of @charrviwadhwa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charrviwadhwa)](https://holopin.io/@charrviwadhwa)
-
+ -->
 
 </div>
 
