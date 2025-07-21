@@ -2,11 +2,8 @@
 
 
 
-<h1 align="center">Hi 🌻, I'm Charvi Wadhwa</h1>
+<h1 align="center">Hi, I'm Charvi Wadhwa</h1>
 <!-- <h3 align="center">A passionate developer from India</h3> -->
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&width=435&lines=Welcome+to+my+GitHub+Profile!;A+passionate+developer+from+India" alt="Typing SVG" /></a>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/charvi-wadhwa-23b565291">
@@ -18,24 +15,18 @@
 
 ![](https://komarev.com/ghpvc/?username=charrviwadhwa)
 
-</div><br>
+</div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="800" height="300">
-</div><br>
+</div>
 
-<p align="center">
+<p align="left">
 🌱 I’m currently learning <i>web development</i><br>
 🌟 I’m currently doing <i>DSA in Java</i><br>
-🌍 I'm passionate about open source contributions 🤝
+🌍 I'm passionate about open source contributions 🤝<br>
+✉️ Connect with me: [Email](mailto:charviwadhwa06@gmail.com)
 </p>
  
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,java,python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,c,cpp,eclipse,pycharm,vercel)](https://skillicons.dev)
 
 
 <!-- <h2>📈 My Github Stats</h2>
