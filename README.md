@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi, I'm Charvi Wadhwa</h1>
+<h1 align="center">Hi 🌻, I'm Charvi Wadhwa</h1>
 <!-- <h3 align="center">A passionate developer from India</h3> -->
 
 <div id="badges" align="center">
@@ -20,12 +20,11 @@
 <div align="center">
 </div>
 
-<p align="left">
+
 🌱 I’m currently learning <i>web development</i><br>
 🌟 I’m currently doing <i>DSA in Java</i><br>
 🌍 I'm passionate about open source contributions 🤝<br>
-✉️ Connect with me: [Email](mailto:charviwadhwa06@gmail.com)
-</p>
+✉️ Connect with me: [email](mailto:charviwadhwa06@gmail.com)
  
 
 
